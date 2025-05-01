@@ -1,2 +1,2 @@
-./data_utils
-./0_Dataset
+data_utils/*
+0_Dataset/*
